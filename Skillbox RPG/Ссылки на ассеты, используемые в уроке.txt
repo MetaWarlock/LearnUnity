@@ -1,0 +1,30 @@
+Список использованных ассетов:
+
+Террейн, трава, кусты, деревья, камни
+https://assetstore.unity.com/packages/3d/environments/unity-terrain-urp-demo-scene-213197
+
+https://assetstore.unity.com/packages/3d/vegetation/trees/conifers-botd-142076
+
+https://assetstore.unity.com/packages/3d/environments/terrain-demo-tve-collection-271106
+
+https://assetstore.unity.com/packages/3d/environments/landscapes/rocky-hills-environment-light-pack-89939
+
+Здания, пропсы, постройки
+
+https://assetstore.unity.com/packages/3d/environments/old-sea-port-environment-36897
+
+https://assetstore.unity.com/packages/3d/environments/fantasy/ultimate-fantasy-creator-lite-45579
+
+https://assetstore.unity.com/packages/3d/environments/fantasy/blacksmith-46265
+
+https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529
+
+https://assetstore.unity.com/packages/3d/environments/fantasy/detailed-medieval-village-demo-157590
+
+https://assetstore.unity.com/packages/3d/environments/stylize-modular-house-demo-free-erbeilo-3d-220218
+
+Меч
+https://assetstore.unity.com/packages/3d/props/weapons/long-sword-212082
+
+UI
+https://assetstore.unity.com/packages/2d/gui/icons/gui-parts-159068
